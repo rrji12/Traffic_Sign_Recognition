@@ -8,7 +8,7 @@
 # Our approach to building this traffic sign classification model is discussed in four steps:
 # 
 # - Explore the dataset
-# - Build a CNN model
+# - Build a ANN model
 # - Train and validate the model
 # - Test the model with test dataset
 
